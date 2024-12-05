@@ -1,2 +1,2 @@
-# Pls-Donate-shitty-shop-ui
-the pls donate shitty shop ui
+# Pls-Donate-ui
+the pls donate ui idk why i make this :)
